@@ -1,0 +1,12 @@
+img	{
+	width: 30%;
+	margin: 1.66%;
+	float: left; /* removes the whitespace between images */
+}
+
+
+h1	{
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: underline;
+	text-align: center;
+}
